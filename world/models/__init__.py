@@ -1,0 +1,1 @@
+from .passenger_car_restrictions_model import PassengerCarRestrictions
